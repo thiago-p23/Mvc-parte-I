@@ -34,8 +34,6 @@ src/
                      └── view/        # Interface com o utilizador via Consola
 ```
 
-# TechByte Solutions - Sistema de Controle de Estoque
-
 ## Descrição do Projeto
 
 O **TechByte Solutions** é um sistema desenvolvido em **Java** para realizar o gerenciamento de produtos de um estoque através do terminal.
